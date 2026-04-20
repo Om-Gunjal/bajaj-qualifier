@@ -1,0 +1,7 @@
+com\bajaj\qualifier\config\AppConfig.class
+com\bajaj\qualifier\dto\Dtos$SubmitQueryRequest.class
+com\bajaj\qualifier\QualifierApplication.class
+com\bajaj\qualifier\service\WebhookService.class
+com\bajaj\qualifier\dto\Dtos.class
+com\bajaj\qualifier\dto\Dtos$GenerateWebhookRequest.class
+com\bajaj\qualifier\dto\Dtos$GenerateWebhookResponse.class
